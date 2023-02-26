@@ -1,0 +1,23 @@
+
+
+void main() {
+  
+  // var (String)
+  var animal = 'dog';
+  print(animal);
+  
+  // 변수 명시적 선언 String
+  String anotherAnimal = 'cat';
+  print(anotherAnimal);
+  
+  // var로 변수 선언한 animal을 다른 값으로 대체
+  animal = 'elephant';
+  print(animal);
+  
+  // String으로 변수 선언한 anotherAnimal 다른 값으로 대체
+  anotherAnimal = 'snake';
+  print(anotherAnimal);
+  
+}
+
+
